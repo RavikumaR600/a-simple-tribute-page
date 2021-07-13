@@ -1,0 +1,11 @@
+img{
+  width:225px;
+  display:block;
+  margin:auto;
+  padding:auto;
+  
+}
+body{
+  text-align:centre;
+  background-color:aqua;
+}
